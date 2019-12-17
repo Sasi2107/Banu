@@ -8,5 +8,7 @@ private void tester() {
 private void manual() {
 	}
 private void mobileTesting() {
+}
+private void completed() {
 	}
 }
